@@ -1,0 +1,482 @@
+i,date,holiday
+1,2009-1-1,New Year's Day
+2,2009-1-25,Robert Burns Night (Burns Night)
+3,2009-1-27,Holocaust Memorial Day
+4,2009-2-14,Valentines Day
+5,2009-2-24,Shrove Tuesday (Pancake Day)
+6,2009-2-25,Ash Wednesday
+7,2009-3-1,St David's Day
+8,2009-3-17,St Patricks Day
+9,2009-3-22,Mothering Sunday (Mothers Day)
+10,2009-3-29,British Summertime (BST) Begins
+11,2009-4-1,April Fool's Day
+12,2009-4-9,Maundy Thursday
+13,2009-4-10,Good Friday
+14,2009-4-12,Easter Sunday
+15,2009-4-13,Easter Monday
+16,2009-4-21,Queen Elizabeth's Birthday
+17,2009-4-23,St George's Day
+18,2009-5-4,May Day (Early May Bank Holiday)
+19,2009-5-25,Spring Bank Holiday
+20,2009-6-14,Trooping the Colour
+21,2009-6-21,Father's Day
+22,2009-7-14,Emmeline Pankhurst Day
+23,2009-7-15,St.Swithun's Day (aka St. Swithin's)
+24,2009-8-31,Summer Bank Holiday
+25,2009-10-25,British Summertime (BST) Ends
+26,2009-10-31,Halloween
+27,2009-11-1,All Saints Day
+28,2009-11-5,Guy Fawkes Night
+29,2009-11-8,Remembrance Day (Remembrance Sunday)
+30,2009-11-30,St Andrew's Day
+31,2009-12-25,Christmas
+32,2009-12-28,Boxing Day
+33,2010-1-1,New Year's Day
+34,2010-1-25,Robert Burns Night (Burns Night)
+35,2010-1-27,Holocaust Memorial Day
+36,2010-2-14,Valentines Day
+37,2010-2-16,Shrove Tuesday (Pancake Day)
+38,2010-2-17,Ash Wednesday
+39,2010-3-1,St David's Day
+40,2010-3-14,Mothering Sunday (Mothers Day)
+41,2010-3-17,St Patricks Day
+42,2010-3-28,British Summertime (BST) Begins
+43,2010-4-1,April Fool's Day
+44,2010-4-1,Maundy Thursday
+45,2010-4-2,Good Friday
+46,2010-4-4,Easter Sunday
+47,2010-4-5,Easter Monday
+48,2010-4-21,Queen Elizabeth's Birthday
+49,2010-4-23,St George's Day
+50,2010-5-3,May Day (Early May Bank Holiday)
+51,2010-5-31,Spring Bank Holiday
+52,2010-6-14,Trooping the Colour
+53,2010-6-20,Father's Day
+54,2010-7-14,Emmeline Pankhurst Day
+55,2010-7-15,St.Swithun's Day (aka St. Swithin's)
+56,2010-8-30,Summer Bank Holiday
+57,2010-10-31,British Summertime (BST) Ends
+58,2010-10-31,Halloween
+59,2010-11-1,All Saints Day
+60,2010-11-5,Guy Fawkes Night
+61,2010-11-14,Remembrance Day (Remembrance Sunday)
+62,2010-11-30,St Andrew's Day
+63,2010-12-27,Boxing Day
+64,2010-12-28,Christmas
+65,2011-1-2,Hogmanay
+66,2011-1-3,New Year's Day
+67,2011-1-25,Robert Burns Night (Burns Night)
+68,2011-1-27,Holocaust Memorial Day
+69,2011-2-14,Valentines Day
+70,2011-3-1,St David's Day
+71,2011-3-8,Shrove Tuesday (Pancake Day)
+72,2011-3-9,Ash Wednesday
+73,2011-3-17,St Patricks Day
+74,2011-3-27,British Summertime (BST) Begins
+75,2011-4-1,April Fool's Day
+76,2011-4-3,Mothering Sunday (Mothers Day)
+77,2011-4-21,Maundy Thursday
+78,2011-4-21,Queen Elizabeth's Birthday
+79,2011-4-22,Good Friday
+80,2011-4-23,St George's Day
+81,2011-4-24,Easter Sunday
+82,2011-4-25,Easter Monday
+83,2011-5-2,May Day (Early May Bank Holiday)
+84,2011-5-30,Spring Bank Holiday
+85,2011-6-14,Trooping the Colour
+86,2011-6-19,Father's Day
+87,2011-7-14,Emmeline Pankhurst Day
+88,2011-7-15,St.Swithun's Day (aka St. Swithin's)
+89,2011-8-29,Summer Bank Holiday
+90,2011-10-30,British Summertime (BST) Ends
+91,2011-10-31,Halloween
+92,2011-11-1,All Saints Day
+93,2011-11-5,Guy Fawkes Night
+94,2011-11-13,Remembrance Day (Remembrance Sunday)
+95,2011-11-30,St Andrew's Day
+96,2011-12-26,Boxing Day
+97,2011-12-27,Christmas
+98,2012-1-1,Hogmanay
+99,2012-1-2,New Year's Day
+100,2012-1-25,Robert Burns Night (Burns Night)
+101,2012-1-27,Holocaust Memorial Day
+102,2012-2-14,Valentines Day
+103,2012-2-21,Shrove Tuesday (Pancake Day)
+104,2012-2-22,Ash Wednesday
+105,2012-3-1,St David's Day
+106,2012-3-17,St Patricks Day
+107,2012-3-18,Mothering Sunday (Mothers Day)
+108,2012-3-25,British Summertime (BST) Begins
+109,2012-4-1,April Fool's Day
+110,2012-4-5,Maundy Thursday
+111,2012-4-6,Good Friday
+112,2012-4-8,Easter Sunday
+113,2012-4-9,Easter Monday
+114,2012-4-21,Queen Elizabeth's Birthday
+115,2012-4-23,St George's Day
+116,2012-5-7,May Day (Early May Bank Holiday)
+117,2012-5-28,Spring Bank Holiday
+118,2012-6-14,Trooping the Colour
+119,2012-6-17,Father's Day
+120,2012-7-14,Emmeline Pankhurst Day
+121,2012-7-15,St.Swithun's Day (aka St. Swithin's)
+122,2012-8-27,Summer Bank Holiday
+123,2012-10-28,British Summertime (BST) Ends
+124,2012-10-31,Halloween
+125,2012-11-1,All Saints Day
+126,2012-11-5,Guy Fawkes Night
+127,2012-11-30,St Andrew's Day
+128,2012-12-25,Christmas
+129,2012-12-26,Boxing Day
+130,2013-1-1,New Year's Day
+131,2013-1-25,Robert Burns Night (Burns Night)
+132,2013-1-27,Holocaust Memorial Day
+133,2013-2-12,Shrove Tuesday (Pancake Day)
+134,2013-2-13,Ash Wednesday
+135,2013-2-14,Valentines Day
+136,2013-3-1,St David's Day
+137,2013-3-10,Mothering Sunday (Mothers Day)
+138,2013-3-17,St Patricks Day
+139,2013-3-28,Maundy Thursday
+140,2013-3-29,Good Friday
+141,2013-3-31,British Summertime (BST) Begins
+142,2013-3-31,Easter Sunday
+143,2013-4-1,April Fool's Day
+144,2013-4-1,Easter Monday
+145,2013-4-21,Queen Elizabeth's Birthday
+146,2013-4-23,St George's Day
+147,2013-5-6,May Day (Early May Bank Holiday)
+148,2013-5-27,Spring Bank Holiday
+149,2013-6-14,Trooping the Colour
+150,2013-6-16,Father's Day
+151,2013-7-14,Emmeline Pankhurst Day
+152,2013-7-15,St.Swithun's Day (aka St. Swithin's)
+153,2013-8-26,Summer Bank Holiday
+154,2013-10-27,British Summertime (BST) Ends
+155,2013-10-31,Halloween
+156,2013-11-1,All Saints Day
+157,2013-11-5,Guy Fawkes Night
+158,2013-11-10,Remembrance Day (Remembrance Sunday)
+159,2013-11-30,St Andrew's Day
+160,2013-12-25,Christmas
+161,2013-12-26,Boxing Day
+162,2014-1-1,New Year's Day
+163,2014-1-25,Robert Burns Night (Burns Night)
+164,2014-1-27,Holocaust Memorial Day
+165,2014-2-14,Valentines Day
+166,2014-3-1,St David's Day
+167,2014-3-4,Shrove Tuesday (Pancake Day)
+168,2014-3-5,Ash Wednesday
+169,2014-3-17,St Patricks Day
+170,2014-3-30,British Summertime (BST) Begins
+171,2014-3-30,Mothering Sunday (Mothers Day)
+172,2014-4-1,April Fool's Day
+173,2014-4-17,Maundy Thursday
+174,2014-4-18,Good Friday
+175,2014-4-20,Easter Sunday
+176,2014-4-21,Easter Monday
+177,2014-4-21,Queen Elizabeth's Birthday
+178,2014-4-23,St George's Day
+179,2014-5-5,May Day (Early May Bank Holiday)
+180,2014-5-26,Spring Bank Holiday
+181,2014-6-14,Trooping the Colour
+182,2014-6-15,Father's Day
+183,2014-7-14,Emmeline Pankhurst Day
+184,2014-7-15,St.Swithun's Day (aka St. Swithin's)
+185,2014-8-25,Summer Bank Holiday
+186,2014-10-26,British Summertime (BST) Ends
+187,2014-10-31,Halloween
+188,2014-11-1,All Saints Day
+189,2014-11-5,Guy Fawkes Night
+190,2014-11-9,Remembrance Day (Remembrance Sunday)
+191,2014-11-30,St Andrew's Day
+192,2014-12-25,Christmas
+193,2014-12-26,Boxing Day
+194,2015-1-1,New Year's Day
+195,2015-1-25,Robert Burns Night (Burns Night)
+196,2015-1-27,Holocaust Memorial Day
+197,2015-2-14,Valentines Day
+198,2015-2-17,Shrove Tuesday (Pancake Day)
+199,2015-2-18,Ash Wednesday
+200,2015-3-1,St David's Day
+201,2015-3-15,Mothering Sunday (Mothers Day)
+202,2015-3-17,St Patricks Day
+203,2015-3-29,British Summertime (BST) Begins
+204,2015-4-1,April Fool's Day
+205,2015-4-2,Maundy Thursday
+206,2015-4-3,Good Friday
+207,2015-4-5,Easter Sunday
+208,2015-4-6,Easter Monday
+209,2015-4-21,Queen Elizabeth's Birthday
+210,2015-4-23,St George's Day
+211,2015-5-4,May Day (Early May Bank Holiday)
+212,2015-5-25,Spring Bank Holiday
+213,2015-6-14,Trooping the Colour
+214,2015-6-21,Father's Day
+215,2015-7-14,Emmeline Pankhurst Day
+216,2015-7-15,St.Swithun's Day (aka St. Swithin's)
+217,2015-8-31,Summer Bank Holiday
+218,2015-10-25,British Summertime (BST) Ends
+219,2015-10-31,Halloween
+220,2015-11-1,All Saints Day
+221,2015-11-5,Guy Fawkes Night
+222,2015-11-8,Remembrance Day (Remembrance Sunday)
+223,2015-11-30,St Andrew's Day
+224,2015-12-25,Christmas
+225,2015-12-28,Boxing Day
+226,2016-1-1,New Year's Day
+227,2016-1-25,Robert Burns Night (Burns Night)
+228,2016-1-27,Holocaust Memorial Day
+229,2016-2-9,Shrove Tuesday (Pancake Day)
+230,2016-2-10,Ash Wednesday
+231,2016-2-14,Valentines Day
+232,2016-3-1,St David's Day
+233,2016-3-6,Mothering Sunday (Mothers Day)
+234,2016-3-17,St Patricks Day
+235,2016-3-24,Maundy Thursday
+236,2016-3-25,Good Friday
+237,2016-3-27,British Summertime (BST) Begins
+238,2016-3-27,Easter Sunday
+239,2016-3-28,Easter Monday
+240,2016-4-1,April Fool's Day
+241,2016-4-21,Queen Elizabeth's Birthday
+242,2016-4-23,St George's Day
+243,2016-5-2,May Day (Early May Bank Holiday)
+244,2016-5-30,Spring Bank Holiday
+245,2016-6-14,Trooping the Colour
+246,2016-6-19,Father's Day
+247,2016-7-14,Emmeline Pankhurst Day
+248,2016-7-15,St.Swithun's Day (aka St. Swithin's)
+249,2016-8-29,Summer Bank Holiday
+250,2016-10-30,British Summertime (BST) Ends
+251,2016-10-31,Halloween
+252,2016-11-1,All Saints Day
+253,2016-11-5,Guy Fawkes Night
+254,2016-11-13,Remembrance Day (Remembrance Sunday)
+255,2016-11-30,St Andrew's Day
+256,2016-12-26,Boxing Day
+257,2016-12-27,Christmas
+258,2017-1-1,Hogmanay
+259,2017-1-2,New Year's Day
+260,2017-1-25,Robert Burns Night (Burns Night)
+261,2017-1-27,Holocaust Memorial Day
+262,2017-2-14,Valentines Day
+263,2017-2-28,Shrove Tuesday (Pancake Day)
+264,2017-3-1,Ash Wednesday
+265,2017-3-1,St David's Day
+266,2017-3-17,St Patricks Day
+267,2017-3-26,British Summertime (BST) Begins
+268,2017-3-26,Mothering Sunday (Mothers Day)
+269,2017-4-1,April Fool's Day
+270,2017-4-13,Maundy Thursday
+271,2017-4-14,Good Friday
+272,2017-4-16,Easter Sunday
+273,2017-4-17,Easter Monday
+274,2017-4-21,Queen Elizabeth's Birthday
+275,2017-4-23,St George's Day
+276,2017-5-1,May Day (Early May Bank Holiday)
+277,2017-5-29,Spring Bank Holiday
+278,2017-6-14,Trooping the Colour
+279,2017-6-18,Father's Day
+280,2017-7-14,Emmeline Pankhurst Day
+281,2017-7-15,St.Swithun's Day (aka St. Swithin's)
+282,2017-8-28,Summer Bank Holiday
+283,2017-10-29,British Summertime (BST) Ends
+284,2017-10-31,Halloween
+285,2017-11-1,All Saints Day
+286,2017-11-5,Guy Fawkes Night
+287,2017-11-12,Remembrance Day (Remembrance Sunday)
+288,2017-11-30,St Andrew's Day
+289,2017-12-25,Christmas
+290,2017-12-26,Boxing Day
+291,2018-1-1,New Year's Day
+292,2018-1-25,Robert Burns Night (Burns Night)
+293,2018-1-27,Holocaust Memorial Day
+294,2018-2-13,Shrove Tuesday (Pancake Day)
+295,2018-2-14,Ash Wednesday
+296,2018-2-14,Valentines Day
+297,2018-3-1,St David's Day
+298,2018-3-11,Mothering Sunday (Mothers Day)
+299,2018-3-17,St Patricks Day
+300,2018-3-25,British Summertime (BST) Begins
+301,2018-3-29,Maundy Thursday
+302,2018-3-30,Good Friday
+303,2018-4-1,April Fool's Day
+304,2018-4-1,Easter Sunday
+305,2018-4-2,Easter Monday
+306,2018-4-21,Queen Elizabeth's Birthday
+307,2018-4-23,St George's Day
+308,2018-5-7,May Day (Early May Bank Holiday)
+309,2018-5-28,Spring Bank Holiday
+310,2018-6-14,Trooping the Colour
+311,2018-6-17,Father's Day
+312,2018-7-14,Emmeline Pankhurst Day
+313,2018-7-15,St.Swithun's Day (aka St. Swithin's)
+314,2018-8-27,Summer Bank Holiday
+315,2018-10-28,British Summertime (BST) Ends
+316,2018-10-31,Halloween
+317,2018-11-1,All Saints Day
+318,2018-11-5,Guy Fawkes Night
+319,2018-11-30,St Andrew's Day
+320,2018-12-25,Christmas
+321,2018-12-26,Boxing Day
+322,2019-1-1,New Year's Day
+323,2019-1-25,Robert Burns Night (Burns Night)
+324,2019-1-27,Holocaust Memorial Day
+325,2019-2-14,Valentines Day
+326,2019-3-1,St David's Day
+327,2019-3-5,Shrove Tuesday (Pancake Day)
+328,2019-3-6,Ash Wednesday
+329,2019-3-17,St Patricks Day
+330,2019-3-31,British Summertime (BST) Begins
+331,2019-3-31,Mothering Sunday (Mothers Day)
+332,2019-4-1,April Fool's Day
+333,2019-4-18,Maundy Thursday
+334,2019-4-19,Good Friday
+335,2019-4-21,Easter Sunday
+336,2019-4-21,Queen Elizabeth's Birthday
+337,2019-4-22,Easter Monday
+338,2019-4-23,St George's Day
+339,2019-5-6,May Day (Early May Bank Holiday)
+340,2019-5-27,Spring Bank Holiday
+341,2019-6-14,Trooping the Colour
+342,2019-6-16,Father's Day
+343,2019-7-14,Emmeline Pankhurst Day
+344,2019-7-15,St.Swithun's Day (aka St. Swithin's)
+345,2019-8-26,Summer Bank Holiday
+346,2019-10-27,British Summertime (BST) Ends
+347,2019-10-31,Halloween
+348,2019-11-1,All Saints Day
+349,2019-11-5,Guy Fawkes Night
+350,2019-11-10,Remembrance Day (Remembrance Sunday)
+351,2019-11-30,St Andrew's Day
+352,2019-12-25,Christmas
+353,2019-12-26,Boxing Day
+354,2020-1-1,New Year's Day
+355,2020-1-25,Robert Burns Night (Burns Night)
+356,2020-1-27,Holocaust Memorial Day
+357,2020-2-14,Valentines Day
+358,2020-2-25,Shrove Tuesday (Pancake Day)
+359,2020-2-26,Ash Wednesday
+360,2020-3-1,St David's Day
+361,2020-3-17,St Patricks Day
+362,2020-3-22,Mothering Sunday (Mothers Day)
+363,2020-3-29,British Summertime (BST) Begins
+364,2020-4-1,April Fool's Day
+365,2020-4-9,Maundy Thursday
+366,2020-4-10,Good Friday
+367,2020-4-12,Easter Sunday
+368,2020-4-13,Easter Monday
+369,2020-4-21,Queen Elizabeth's Birthday
+370,2020-4-23,St George's Day
+371,2020-5-4,May Day (Early May Bank Holiday)
+372,2020-5-25,Spring Bank Holiday
+373,2020-6-14,Trooping the Colour
+374,2020-6-21,Father's Day
+375,2020-7-14,Emmeline Pankhurst Day
+376,2020-7-15,St.Swithun's Day (aka St. Swithin's)
+377,2020-8-31,Summer Bank Holiday
+378,2020-10-25,British Summertime (BST) Ends
+379,2020-10-31,Halloween
+380,2020-11-1,All Saints Day
+381,2020-11-5,Guy Fawkes Night
+382,2020-11-8,Remembrance Day (Remembrance Sunday)
+383,2020-11-30,St Andrew's Day
+384,2020-12-25,Christmas
+385,2020-12-28,Boxing Day
+386,2021-1-1,New Year's Day
+387,2021-1-25,Robert Burns Night (Burns Night)
+388,2021-1-27,Holocaust Memorial Day
+389,2021-2-14,Valentines Day
+390,2021-2-25,Shrove Tuesday (Pancake Day)
+391,2021-2-26,Ash Wednesday
+392,2021-3-1,St David's Day
+393,2021-3-17,St Patricks Day
+394,2021-3-22,Mothering Sunday (Mothers Day)
+395,2021-3-29,British Summertime (BST) Begins
+396,2021-4-1,April Fool's Day
+397,2021-4-9,Maundy Thursday
+398,2021-4-10,Good Friday
+399,2021-4-12,Easter Sunday
+400,2021-4-13,Easter Monday
+401,2021-4-21,Queen Elizabeth's Birthday
+402,2021-4-23,St George's Day
+403,2021-5-4,May Day (Early May Bank Holiday)
+404,2021-5-25,Spring Bank Holiday
+405,2021-6-14,Trooping the Colour
+406,2021-6-21,Father's Day
+407,2021-7-14,Emmeline Pankhurst Day
+408,2021-7-15,St.Swithun's Day (aka St. Swithin's)
+409,2021-8-31,Summer Bank Holiday
+410,2021-10-25,British Summertime (BST) Ends
+411,2021-10-31,Halloween
+412,2021-11-1,All Saints Day
+413,2021-11-5,Guy Fawkes Night
+414,2021-11-8,Remembrance Day (Remembrance Sunday)
+415,2021-11-30,St Andrew's Day
+416,2021-12-25,Christmas
+417,2021-12-28,Boxing Day
+418,2022-1-1,New Year's Day
+419,2022-1-25,Robert Burns Night (Burns Night)
+420,2022-1-27,Holocaust Memorial Day
+421,2022-2-14,Valentines Day
+422,2022-2-25,Shrove Tuesday (Pancake Day)
+423,2022-2-26,Ash Wednesday
+424,2022-3-1,St David's Day
+425,2022-3-17,St Patricks Day
+426,2022-3-22,Mothering Sunday (Mothers Day)
+427,2022-3-29,British Summertime (BST) Begins
+428,2022-4-1,April Fool's Day
+429,2022-4-9,Maundy Thursday
+430,2022-4-10,Good Friday
+431,2022-4-12,Easter Sunday
+432,2022-4-13,Easter Monday
+433,2022-4-21,Queen Elizabeth's Birthday
+434,2022-4-23,St George's Day
+435,2022-5-4,May Day (Early May Bank Holiday)
+436,2022-5-25,Spring Bank Holiday
+437,2022-6-14,Trooping the Colour
+438,2022-6-21,Father's Day
+439,2022-7-14,Emmeline Pankhurst Day
+440,2022-7-15,St.Swithun's Day (aka St. Swithin's)
+441,2022-8-31,Summer Bank Holiday
+442,2022-10-25,British Summertime (BST) Ends
+443,2022-10-31,Halloween
+444,2022-11-1,All Saints Day
+445,2022-11-5,Guy Fawkes Night
+446,2022-11-8,Remembrance Day (Remembrance Sunday)
+447,2022-11-30,St Andrew's Day
+448,2022-12-25,Christmas
+449,2022-12-28,Boxing Day
+450,2023-1-1,New Year's Day
+451,2023-1-25,Robert Burns Night (Burns Night)
+452,2023-1-27,Holocaust Memorial Day
+453,2023-2-14,Valentines Day
+454,2023-2-25,Shrove Tuesday (Pancake Day)
+455,2023-2-26,Ash Wednesday
+456,2023-3-1,St David's Day
+457,2023-3-17,St Patricks Day
+458,2023-3-22,Mothering Sunday (Mothers Day)
+459,2023-3-29,British Summertime (BST) Begins
+460,2023-4-1,April Fool's Day
+461,2023-4-9,Maundy Thursday
+462,2023-4-10,Good Friday
+463,2023-4-12,Easter Sunday
+464,2023-4-13,Easter Monday
+465,2023-4-21,Queen Elizabeth's Birthday
+466,2023-4-23,St George's Day
+467,2023-5-4,May Day (Early May Bank Holiday)
+468,2023-5-25,Spring Bank Holiday
+469,2023-6-14,Trooping the Colour
+470,2023-6-21,Father's Day
+471,2023-7-14,Emmeline Pankhurst Day
+472,2023-7-15,St.Swithun's Day (aka St. Swithin's)
+473,2023-8-31,Summer Bank Holiday
+474,2023-10-25,British Summertime (BST) Ends
+475,2023-10-31,Halloween
+476,2023-11-1,All Saints Day
+477,2023-11-5,Guy Fawkes Night
+478,2023-11-8,Remembrance Day (Remembrance Sunday)
+479,2023-11-30,St Andrew's Day
+480,2023-12-25,Christmas
+481,2023-12-28,Boxing Day
